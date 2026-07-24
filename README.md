@@ -82,8 +82,7 @@ To build an accurate regression model capable of estimating car selling prices u
 
 The project identifies the best-performing regression model and predicts car selling prices with high accuracy.
 
-## Author
+## 👤 Author
 
-Anoop Kaur
-B.Tech CSE (AI & ML)
-Akal University, Punjab
+**Anoop Kaur**  
+B.Tech CSE (Honours) – Artificial Intelligence & Machine Learning  
